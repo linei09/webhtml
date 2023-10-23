@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.callejerosrp.com	TRUE	/	FALSE	1999999999	__cfduid	d932c7c059247e1c8a279e11e9cc90daf1614366198
+www.callejerosrp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.callejerosrp.es	TRUE	/	FALSE	1999999999	__cfduid	dbbff32866d8f1d9e424cf144da2fea641614366199
+callejerosrp.es	TRUE	/	FALSE	1999999999	SameSite	Lax
+
